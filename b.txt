@@ -1,3 +1,5 @@
 Rallado
 
 Cambio independiente
+
+Fix a bug in B
