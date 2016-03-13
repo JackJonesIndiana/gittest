@@ -2,4 +2,4 @@ Locarro master
 
 Change in test
 
-Editor master
+Editor
