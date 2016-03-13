@@ -9,3 +9,5 @@ Feature finished
 Test
 
 Feature branch
+
+Another feature
