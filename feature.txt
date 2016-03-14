@@ -1,15 +1,1 @@
-New feature
-
-Modified
-
-Modifie 3 times
-
-Feature finished
-
-Test
-
-Feature branch
-
-Another feature
-
-Juan feature
+Final feature
